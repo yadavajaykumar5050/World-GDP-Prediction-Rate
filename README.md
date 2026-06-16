@@ -10,12 +10,12 @@ This project predicts the GDP (Gross Domestic Product) growth rate of countries 
 - Performance Evaluation
 
 # 🛠️ Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib
-Scikit-Learn
-Jupyter Notebook
+-Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-Learn
+- Jupyter Notebook
 
 # 📂 Project Structure
 # World-GDP-Prediction/
@@ -31,10 +31,10 @@ Jupyter Notebook
 Clone the repository:
 git clone https://github.com/yourusername/world-gdp-prediction.git
 
-Install dependencies:
-pip install -r requirements.txt
-Run the project:
-python app.py
+# Install dependencies:
+- pip install -r requirements.txt
+- Run the project:
+- python app.py
 
 # 📊 Dataset
 
@@ -44,6 +44,6 @@ The dataset contains historical GDP data along with other economic indicators su
 
 To build a machine learning model that can predict GDP growth rates and help understand economic trends.
 
-📈 Sample Output
-Country: India
-Predicted GDP Growth Rate: 6.8%
+# 📈 Sample Output
+- Country: India
+- Predicted GDP Growth Rate: 6.8%
