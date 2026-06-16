@@ -17,15 +17,7 @@ This project predicts the GDP (Gross Domestic Product) growth rate of countries 
 - Scikit-Learn
 - Jupyter Notebook
 
-# 📂 Project Structure
-# World-GDP-Prediction/
-│
-├── data/
-├── notebooks/
-├── models/
-├── app.py
-├── requirements.txt
-└── README.md
+
 
 # ▶️ How to Run
 Clone the repository:
